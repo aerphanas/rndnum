@@ -1,0 +1,3 @@
+# rndnum
+
+random generator
