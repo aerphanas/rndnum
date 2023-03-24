@@ -9,7 +9,7 @@ body {
   color: white;
 }
 
-.Banner {
+/* .Banner {
   background-color: lightskyblue;
   color: black;
   margin-bottom: 20px;
@@ -24,14 +24,14 @@ body {
 .Result {
   font-size: 50px;
   margin-top: 30px;
-}
-.Button {
+} */
+button {
   text-decoration: none;
   background-color: #6495ed;
   color: black;
   padding: 2px 50px 2px 50px;
 }
-.Button:hover {
+button:hover {
   text-decoration: none;
   background-color: #87ceeb;
   color: black;
